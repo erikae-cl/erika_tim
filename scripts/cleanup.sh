@@ -5,4 +5,4 @@ git config --global --unset user.email
 
 gh auth logout
 
-rm ~/autonomy_ws
+rm -rf ~/autonomy_ws
